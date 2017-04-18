@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<themeSeries> 
+   
+    <species series ="s" model = "item S31"> 
+        <pkg>com.talpa.theme</pkg>  
+        <pkg>com.talpa.theme</pkg> 
+    </species>  
+
+    <species series ="s" model = "item S41"> 
+        <pkg>com.talpa.theme</pkg>  
+        <pkg>com.talpa.theme</pkg> 
+    </species> 
+  
+
+    <species series ="p" model = "item P31">  
+        <pkg>com.talpa.theme</pkg>  
+        <pkg>com.talpa.theme</pkg> 
+    </species> 
+ 
+  
+    <species series ="a" model = "item A12"> 
+        <pkg>com.talpa.theme</pkg>  
+        <pkg>com.talpa.theme</pkg> 
+    </species> 
+ 
+</themeSeries>
